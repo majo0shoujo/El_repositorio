@@ -1,0 +1,2 @@
+videoName,frameIndex,box2d.x1,box2d.y1,box2d.x2,box2d.y2,category
+carros,4,50,90,80,120,car
